@@ -1,5 +1,5 @@
 # Svelte Learning Documentation
-## List what to lear
+## List what to learn
 1. Introduction
 2. Reactivity
 3. Props
